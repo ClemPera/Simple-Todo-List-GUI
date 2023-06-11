@@ -1,0 +1,12 @@
+[package]
+name = "todo_list_gui"
+version = "0.1.0"
+edition = "2021"
+authors = ["Clement Pera"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+eframe = "0.22.0"
+env_logger = "0.10.0"
+rusqlite = "0.29.0"
